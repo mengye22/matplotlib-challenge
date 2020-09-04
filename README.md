@@ -14,6 +14,7 @@ As a senior data analyst at the company, you've been given access to the complet
 Tasks:
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+![regimen_pts_pyplot](Pymaceuticals/images/regimen_pts_pyplot.png)
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of mice per time point for each treatment regimen throughout the course of the study.
 
